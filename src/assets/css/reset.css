@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+/*@font-face {*/
+/*    font-family: pingfang;*/
+/*    src: url("../fonts/PingFangMedium.ttf");*/
+/*}*/
+/*@font-face {*/
+/*    font-family: pingfangblod;*/
+/*    src: url("../fonts/PingFangBold.ttf");*/
+/*}*/
+body{
+    font-family: "微软雅黑";
+}
